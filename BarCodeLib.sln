@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarCodeLib", "BarCodeLib\BarCodeLib.csproj", "{E4CE9327-98C2-4B46-B13D-4E43DC0C1E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarCodeLib.Tests", "BarCodeLib.Tests\BarCodeLib.Tests.csproj", "{0C6A3437-B911-4DA9-B4C0-EBF8A8D08573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4CE9327-98C2-4B46-B13D-4E43DC0C1E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CE9327-98C2-4B46-B13D-4E43DC0C1E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CE9327-98C2-4B46-B13D-4E43DC0C1E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CE9327-98C2-4B46-B13D-4E43DC0C1E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6A3437-B911-4DA9-B4C0-EBF8A8D08573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6A3437-B911-4DA9-B4C0-EBF8A8D08573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6A3437-B911-4DA9-B4C0-EBF8A8D08573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6A3437-B911-4DA9-B4C0-EBF8A8D08573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SccProjectUniqueName1 = BarCodeLib.Tests\\BarCodeLib.Tests.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = BarCodeLib.Tests\\
+		SccProjectUniqueName2 = BarCodeLib\\BarCodeLib.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = BarCodeLib\\
+	EndGlobalSection
+EndGlobal
